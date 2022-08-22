@@ -1,0 +1,155 @@
+/*input[type="number"] {
+    -webkit-appearance: textfield!important;
+       -moz-appearance: textfield!important;
+            appearance: textfield!important;
+  }
+  input[type=number]::-webkit-inner-spin-button, 
+  input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none!important;
+  }*/
+
+.caixa {
+  position: relative;
+  width: 940px;
+  bottom: 5%;
+}
+
+.texto1 {
+  font-size: 16px;
+  font-weight: bold;
+  
+}
+
+.botao-input-centralizado {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.mb-3 {
+  position: relative;
+  top: 18px;
+  right: 10px;
+  width: 50px;
+  height: 40px;
+  border: 3px solid #6e6b7b;
+  text-align: center;
+}
+
+.botaoMais {
+  width: 0%;
+  margin: 3%;
+  top: 6%;
+  right: 9%;
+  bottom: -5%;
+  position: relative;
+  background-color: #6e6b7b !important;
+  border-color: #6e6b7b !important;
+}
+
+.botaoMenos {
+  top: 6%;
+  margin: 3%;
+    right: 0%;
+    left: 7%;
+    width: 0%;
+    bottom: 93%;
+    position: relative;
+    background-color: #6e6b7b !important;
+  border-color: #6e6b7b !important;
+}
+
+.teste {
+
+  width: 100%;
+    text-align: center;
+    border: 1px solid black;
+    
+}
+
+ /*
+
+.texto2 {
+  margin: -56px -341px 27px 400px;
+  font-size: 16px;
+  font-weight: bold;
+  
+}
+
+
+#texto {
+  position: relative;
+  top: 30px;
+  margin: -89px -190px -34px 350px;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+ 
+
+  position: absolute;
+    top: 60px;
+    right: 417px;
+
+    
+  .caixa {
+    position: relative;
+    top: -50px;
+    width: 900px;
+    margin: 0 15%;
+    padding: 40px 0;
+  }
+
+  .caixa-div1 {
+    margin-bottom: -50px;
+  }
+
+  .mb-3 {
+    display: inline-block;
+    width: 5%;
+    padding: 0%;
+}
+
+    position: relative;
+    top: 60px;
+    right: 2px;
+    width: 50px;
+    height: 40px;
+    border: 3px solid #6e6b7b;
+  }
+
+  .botaoMenos {
+    top: 4%;
+    right: 95%;
+    width: 0%;
+    bottom: 93%;
+    position: absolute;
+  }
+  
+  .botaoMais {
+    top: 4%;
+    right: 84%;
+    width: 4%;
+    bottom: 93%;
+    position: absolute;
+}
+
+  .texto1 {
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .texto2 {
+    margin: -39px -190px -34px 220px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    
+  }
+
+.botao {
+  margin: 0px 0px 0px 30px;
+  padding: 5px 15px;
+  position: relative;
+}
+*/

@@ -1,0 +1,130 @@
+.form-control {
+    width: 90%;
+    margin: 1%
+}
+
+.confbotao {
+    margin: 1%;
+    margin-bottom: 30%;
+}
+
+.input-group {
+    margin-bottom: 18%;
+    width: 60%;
+}
+
+.input-loja{
+    margin-bottom: 7%;
+}
+
+.input-vendedor{
+    margin-bottom: 7%;
+}
+
+.input-data {
+    margin-bottom: 7%;
+}
+
+.input-horatrabalhada {
+    margin-bottom: 7%;
+}
+
+.conf1 {
+    display: inline-block;
+    width: 40%;
+}
+
+.conf2{
+    display: inline-block;
+}
+
+.conf3{
+    display: inline-block;
+}
+
+.confinput {
+    margin-bottom: 30%;
+}
+
+
+
+/*.container{
+    display: inline-block;
+    text-align: left;
+    width: 48%
+}*/
+
+/*.h1 {
+    text-align: center;
+    font-family: Source Sans Pro;
+    color:#696767; 
+    margin-right: 20%
+}
+
+.conf1 {
+    font-family: Source Sans Pro Medium;
+    color:#696767;
+}
+
+.conf2{
+    display: inline-block;
+    font-size: 100%;
+    margin-bottom: 10%;
+}
+
+.conf3 {
+    font-size: 100%;
+    font-family: Source Sans Pro Medium;
+    color: #696767;
+    display: inline-block;
+    text-align: center;
+}
+
+.conf6 {
+    font-size: 100%;
+    font-family: Source Sans Pro Medium;
+    color: #696767;
+    text-align: center;
+    display: inline-block;
+}
+
+.conf4 {
+    margin-bottom: 15%
+}
+
+.conf5 {
+    margin-bottom: 0%;
+}
+
+.campo1 {
+    border: 2px solid #bbb302; 
+    width: 100%;
+    line-height: 26px;
+    font-family: unset;
+    font-size: 100%;
+}
+
+.campo2 {
+    border: 2px solid #bbb302;
+    border-radius: 5%; 
+    width: 45px;
+    line-height: 25px;
+    font-family: unset;
+    font-size: 100%;
+    text-align: center;
+}
+
+.botao {
+    border-radius: 4px;
+    line-height: 26px;
+    width: 30px;
+
+}
+
+.div-principal {
+    display: inline-block;
+}
+
+.botao-submit {
+    border-radius: 4px;
+} */
